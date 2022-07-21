@@ -4,10 +4,10 @@
     "url": "https://tilde.team",
     "icon": "https://favicons.githubusercontent.com/tilde.team",
     "slug": "tilde-team",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 423,
@@ -15,7 +15,9 @@
     "timeWeek": 372,
     "timeMonth": 423,
     "timeYear": 423,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-21": 1
+    }
   },
   {
     "name": "tildegit",
