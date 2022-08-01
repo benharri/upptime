@@ -76,9 +76,9 @@
     "url": "https://benharr.is",
     "icon": "https://favicons.githubusercontent.com/benharr.is",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 388,
     "timeMonth": 379,
     "timeYear": 379,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-01": 0
+    }
   },
   {
     "name": "bsd.tilde.team",
