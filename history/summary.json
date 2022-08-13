@@ -40,9 +40,9 @@
     "url": "https://tilde.news",
     "icon": "https://favicons.githubusercontent.com/tilde.news",
     "slug": "tilde-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 515,
     "timeMonth": 466,
     "timeYear": 476,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-13": 0
+    }
   },
   {
     "name": "tilde chat",
