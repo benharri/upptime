@@ -40,19 +40,19 @@
     "url": "https://tilde.news",
     "icon": "https://favicons.githubusercontent.com/tilde.news",
     "slug": "tilde-news",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 713,
-    "timeWeek": 515,
-    "timeMonth": 466,
-    "timeYear": 476,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.94%",
+    "time": 470,
+    "timeDay": 463,
+    "timeWeek": 477,
+    "timeMonth": 458,
+    "timeYear": 470,
     "dailyMinutesDown": {
-      "2022-08-13": 0
+      "2022-08-13": 30
     }
   },
   {
