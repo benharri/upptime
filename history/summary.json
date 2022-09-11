@@ -41,11 +41,11 @@
     "icon": "https://favicons.githubusercontent.com/tilde.news",
     "slug": "tilde-news",
     "status": "up",
-    "uptime": "98.70%",
+    "uptime": "98.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.21%",
-    "uptimeYear": "98.70%",
+    "uptimeYear": "98.72%",
     "time": 436,
     "timeDay": 560,
     "timeWeek": 544,
@@ -118,17 +118,19 @@
     "url": "https://tilde.zone",
     "icon": "https://favicons.githubusercontent.com/tilde.zone",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 802,
-    "timeDay": 768,
-    "timeWeek": 808,
-    "timeMonth": 821,
-    "timeYear": 802,
-    "dailyMinutesDown": {}
+    "time": 844,
+    "timeDay": 2224,
+    "timeWeek": 1167,
+    "timeMonth": 910,
+    "timeYear": 844,
+    "dailyMinutesDown": {
+      "2022-09-11": 0
+    }
   }
 ]
