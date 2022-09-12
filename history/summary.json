@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 579,
-    "timeWeek": 428,
-    "timeMonth": 361,
-    "timeYear": 425,
+    "time": 429,
+    "timeDay": 700,
+    "timeWeek": 437,
+    "timeMonth": 378,
+    "timeYear": 429,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 467,
-    "timeWeek": 322,
-    "timeMonth": 293,
-    "timeYear": 332,
+    "time": 336,
+    "timeDay": 580,
+    "timeWeek": 362,
+    "timeMonth": 305,
+    "timeYear": 336,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "97.21%",
     "uptimeYear": "98.72%",
     "time": 436,
-    "timeDay": 560,
-    "timeWeek": 544,
-    "timeMonth": 393,
+    "timeDay": 475,
+    "timeWeek": 484,
+    "timeMonth": 398,
     "timeYear": 436,
     "dailyMinutesDown": {
       "2022-08-18": 935,
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 336,
-    "timeWeek": 219,
-    "timeMonth": 219,
-    "timeYear": 239,
+    "time": 240,
+    "timeDay": 264,
+    "timeWeek": 225,
+    "timeMonth": 227,
+    "timeYear": 240,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 388,
-    "timeDay": 392,
-    "timeWeek": 418,
-    "timeMonth": 361,
-    "timeYear": 388,
+    "time": 389,
+    "timeDay": 468,
+    "timeWeek": 358,
+    "timeMonth": 367,
+    "timeYear": 389,
     "dailyMinutesDown": {
       "2022-08-01": 64
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 540,
-    "timeWeek": 542,
-    "timeMonth": 593,
-    "timeYear": 602,
+    "time": 606,
+    "timeDay": 918,
+    "timeWeek": 578,
+    "timeMonth": 602,
+    "timeYear": 606,
     "dailyMinutesDown": {}
   },
   {
@@ -119,18 +119,16 @@
     "icon": "https://favicons.githubusercontent.com/tilde.zone",
     "slug": "mastodon",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 845,
-    "timeDay": 1783,
-    "timeWeek": 1137,
-    "timeMonth": 910,
-    "timeYear": 845,
-    "dailyMinutesDown": {
-      "2022-09-11": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 846,
+    "timeDay": 1834,
+    "timeWeek": 1136,
+    "timeMonth": 919,
+    "timeYear": 846,
+    "dailyMinutesDown": {}
   }
 ]
