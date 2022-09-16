@@ -118,19 +118,19 @@
     "url": "https://tilde.zone",
     "icon": "https://favicons.githubusercontent.com/tilde.zone",
     "slug": "mastodon",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 849,
-    "timeDay": 922,
-    "timeWeek": 1176,
-    "timeMonth": 924,
-    "timeYear": 849,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "90.22%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.86%",
+    "time": 846,
+    "timeDay": 761,
+    "timeWeek": 1118,
+    "timeMonth": 915,
+    "timeYear": 846,
     "dailyMinutesDown": {
-      "2022-09-16": 0
+      "2022-09-16": 141
     }
   }
 ]
