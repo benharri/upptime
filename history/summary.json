@@ -4,10 +4,10 @@
     "url": "https://tilde.team",
     "icon": "https://favicons.githubusercontent.com/tilde.team",
     "slug": "tilde-team",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 417,
@@ -15,17 +15,19 @@
     "timeWeek": 327,
     "timeMonth": 365,
     "timeYear": 417,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 2
+    }
   },
   {
     "name": "tildegit",
     "url": "https://tildegit.org",
     "icon": "https://favicons.githubusercontent.com/tildegit.org",
     "slug": "tildegit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 329,
@@ -33,25 +35,28 @@
     "timeWeek": 271,
     "timeMonth": 301,
     "timeYear": 329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 1
+    }
   },
   {
     "name": "tilde news",
     "url": "https://tilde.news",
     "icon": "https://favicons.githubusercontent.com/tilde.news",
     "slug": "tilde-news",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.87%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.87%",
     "time": 431,
     "timeDay": 526,
     "timeWeek": 398,
     "timeMonth": 415,
     "timeYear": 431,
     "dailyMinutesDown": {
+      "2022-09-20": 0,
       "2022-08-18": 935,
       "2022-08-17": 255,
       "2022-08-13": 30
