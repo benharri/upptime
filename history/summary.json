@@ -93,9 +93,9 @@
     "url": "https://benharr.is",
     "icon": "https://icons.duckduckgo.com/ip3/benharr.is.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -105,6 +105,7 @@
     "timeMonth": 394,
     "timeYear": 415,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-08-01": 64
     }
   },
@@ -132,11 +133,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tilde.zone.ico",
     "slug": "mastodon",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 769,
     "timeDay": 384,
     "timeWeek": 571,
