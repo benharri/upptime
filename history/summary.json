@@ -144,7 +144,7 @@
     "url": "https://tilde.zone",
     "icon": "https://icons.duckduckgo.com/ip3/tilde.zone.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
     "uptimeDay": "98.81%",
     "uptimeWeek": "99.83%",
@@ -156,6 +156,7 @@
     "timeMonth": 549,
     "timeYear": 672,
     "dailyMinutesDown": {
+      "2023-07-14": 0,
       "2023-07-13": 17,
       "2023-07-03": 17,
       "2023-06-29": 18,
