@@ -60,7 +60,7 @@
     "uptimeYear": "99.27%",
     "time": 443,
     "timeDay": 198,
-    "timeWeek": 358,
+    "timeWeek": 353,
     "timeMonth": 409,
     "timeYear": 411,
     "dailyMinutesDown": {
@@ -150,9 +150,9 @@
     "url": "https://tilde.zone",
     "icon": "https://icons.duckduckgo.com/ip3/tilde.zone.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.91%",
@@ -162,6 +162,7 @@
     "timeMonth": 589,
     "timeYear": 572,
     "dailyMinutesDown": {
+      "2024-02-03": 0,
       "2024-01-25": 15,
       "2024-01-23": 16,
       "2024-01-19": 16,
