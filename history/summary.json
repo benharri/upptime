@@ -144,19 +144,19 @@
     "url": "https://bsd.tilde.team",
     "icon": "https://icons.duckduckgo.com/ip3/bsd.tilde.team.ico",
     "slug": "bsd-tilde-team",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 474,
-    "timeWeek": 553,
-    "timeMonth": 560,
+    "time": 576,
+    "timeDay": 495,
+    "timeWeek": 551,
+    "timeMonth": 559,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2024-05-08": 0
+      "2024-05-08": 17
     }
   },
   {
