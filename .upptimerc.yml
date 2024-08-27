@@ -12,7 +12,7 @@ sites:
   - name: tilde chat
     url: https://tilde.chat
   - name: homepage
-    url: https://benharr.is
+    url: https://benharri.org
   - name: bsd.tilde.team
     url: https://bsd.tilde.team
   - name: mastodon
@@ -36,9 +36,9 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: uptime.io
-      href: https://status.bhh.sh
+      href: https://status.benharri.org
     - title: infra
-      href: https://tilde.wiki/wiki/User:Ben/Servers
+      href: https://tilde.wiki/User:Ben/Servers
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
