@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 494,
-    "timeDay": 574,
-    "timeWeek": 344,
-    "timeMonth": 464,
-    "timeYear": 496,
+    "timeDay": 606,
+    "timeWeek": 394,
+    "timeMonth": 470,
+    "timeYear": 495,
     "dailyMinutesDown": {
       "2024-09-18": 420
     }
@@ -31,15 +31,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 329,
-    "timeDay": 408,
-    "timeWeek": 295,
-    "timeMonth": 300,
+    "timeDay": 402,
+    "timeWeek": 314,
+    "timeMonth": 304,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2024-09-18": 420,
       "2024-08-14": 16,
-      "2024-02-29": 33,
-      "2024-02-05": 32
+      "2024-02-29": 33
     }
   },
   {
@@ -54,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 427,
-    "timeDay": 512,
-    "timeWeek": 295,
-    "timeMonth": 389,
+    "timeDay": 416,
+    "timeWeek": 330,
+    "timeMonth": 397,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2024-10-09": 494,
@@ -66,8 +65,7 @@
       "2024-03-04": 32,
       "2024-02-29": 46,
       "2024-02-18": 282,
-      "2024-02-13": 907,
-      "2024-02-05": 51
+      "2024-02-13": 907
     }
   },
   {
@@ -82,9 +80,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 246,
-    "timeDay": 243,
-    "timeWeek": 173,
-    "timeMonth": 183,
+    "timeDay": 244,
+    "timeWeek": 203,
+    "timeMonth": 189,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2024-10-23": 271,
@@ -99,16 +97,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/benharri.org.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 413,
-    "timeDay": 574,
-    "timeWeek": 494,
-    "timeMonth": 442,
-    "timeYear": 411,
+    "timeDay": 578,
+    "timeWeek": 519,
+    "timeMonth": 446,
+    "timeYear": 412,
     "dailyMinutesDown": {
       "2024-11-07": 35,
       "2024-06-13": 37,
@@ -133,10 +131,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 546,
-    "timeDay": 639,
-    "timeWeek": 443,
-    "timeMonth": 486,
-    "timeYear": 529,
+    "timeDay": 536,
+    "timeWeek": 456,
+    "timeMonth": 492,
+    "timeYear": 528,
     "dailyMinutesDown": {
       "2024-12-05": 30,
       "2024-10-09": 17,
@@ -157,9 +155,9 @@
     "uptimeYear": "99.88%",
     "time": 582,
     "timeDay": 801,
-    "timeWeek": 673,
-    "timeMonth": 607,
-    "timeYear": 588,
+    "timeWeek": 703,
+    "timeMonth": 608,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2024-12-05": 28,
       "2024-09-30": 79,
@@ -204,9 +202,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 481,
-    "timeDay": 711,
-    "timeWeek": 568,
-    "timeMonth": 557,
+    "timeDay": 743,
+    "timeWeek": 592,
+    "timeMonth": 564,
     "timeYear": 481,
     "dailyMinutesDown": {
       "2024-11-07": 35,
