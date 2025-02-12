@@ -4,11 +4,11 @@
     "url": "https://tilde.team",
     "icon": "https://icons.duckduckgo.com/ip3/tilde.team.ico",
     "slug": "tilde-team",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.92%",
     "time": 499,
     "timeDay": 589,
@@ -16,6 +16,7 @@
     "timeMonth": 525,
     "timeYear": 499,
     "dailyMinutesDown": {
+      "2025-02-12": 2,
       "2024-09-18": 420
     }
   },
