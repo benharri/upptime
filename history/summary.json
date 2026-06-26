@@ -168,21 +168,21 @@
     "url": "https://tilde.zone",
     "icon": "https://icons.duckduckgo.com/ip3/tilde.zone.ico",
     "slug": "mastodon",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.96%",
-    "time": 696,
-    "timeDay": 807,
-    "timeWeek": 636,
-    "timeMonth": 659,
-    "timeYear": 715,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "88.07%",
+    "uptimeWeek": "96.70%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.93%",
+    "time": 697,
+    "timeDay": 854,
+    "timeWeek": 666,
+    "timeMonth": 666,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2025-12-10": 48,
       "2026-06-24": 161,
-      "2026-06-26": 0
+      "2026-06-26": 172
     }
   },
   {
