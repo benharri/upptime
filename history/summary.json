@@ -123,11 +123,11 @@
     "url": "https://benharri.org",
     "icon": "https://icons.duckduckgo.com/ip3/benharri.org.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.96%",
     "time": 424,
     "timeDay": 526,
@@ -140,7 +140,8 @@
       "2025-08-19": 34,
       "2025-08-27": 16,
       "2026-02-24": 60,
-      "2026-06-28": 59
+      "2026-06-28": 59,
+      "2026-06-29": 5
     }
   },
   {
@@ -193,11 +194,11 @@
     "url": "https://tcpinball.org",
     "icon": "https://icons.duckduckgo.com/ip3/tcpinball.org.ico",
     "slug": "tcpinball",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "96.21%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
     "time": 684,
     "timeDay": 30326,
@@ -209,7 +210,8 @@
       "2025-08-15": 21,
       "2025-08-19": 34,
       "2026-02-24": 59,
-      "2026-06-28": 55
+      "2026-06-28": 55,
+      "2026-06-29": 0
     }
   }
 ]
