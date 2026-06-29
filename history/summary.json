@@ -123,16 +123,16 @@
     "url": "https://benharri.org",
     "icon": "https://icons.duckduckgo.com/ip3/benharri.org.ico",
     "slug": "homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "95.55%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.96%",
+    "uptimeDay": "89.82%",
+    "uptimeWeek": "97.96%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.93%",
     "time": 424,
-    "timeDay": 526,
-    "timeWeek": 437,
-    "timeMonth": 368,
+    "timeDay": 551,
+    "timeWeek": 449,
+    "timeMonth": 373,
     "timeYear": 415,
     "dailyMinutesDown": {
       "2025-08-01": 18,
@@ -141,7 +141,7 @@
       "2025-08-27": 16,
       "2026-02-24": 60,
       "2026-06-28": 59,
-      "2026-06-29": 5
+      "2026-06-29": 147
     }
   },
   {
@@ -194,24 +194,24 @@
     "url": "https://tcpinball.org",
     "icon": "https://icons.duckduckgo.com/ip3/tcpinball.org.ico",
     "slug": "tcpinball",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "96.18%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "90.16%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.94%",
     "time": 684,
-    "timeDay": 30326,
-    "timeWeek": 7951,
-    "timeMonth": 2372,
-    "timeYear": 725,
+    "timeDay": 732,
+    "timeWeek": 7154,
+    "timeMonth": 2323,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2025-08-01": 18,
       "2025-08-15": 21,
       "2025-08-19": 34,
       "2026-02-24": 59,
       "2026-06-28": 55,
-      "2026-06-29": 0
+      "2026-06-29": 142
     }
   }
 ]
