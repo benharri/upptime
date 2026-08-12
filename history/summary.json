@@ -34,17 +34,17 @@
     "url": "https://tildegit.org",
     "icon": "https://icons.duckduckgo.com/ip3/tildegit.org.ico",
     "slug": "tildegit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
     "time": 329,
-    "timeDay": 204,
-    "timeWeek": 264,
-    "timeMonth": 314,
-    "timeYear": 329,
+    "timeDay": 206,
+    "timeWeek": 257,
+    "timeMonth": 310,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2025-08-26": 529,
       "2025-09-04": 19,
@@ -53,7 +53,8 @@
       "2026-04-30": 238,
       "2026-04-29": 107,
       "2026-05-15": 741,
-      "2026-06-02": 507
+      "2026-06-02": 507,
+      "2026-08-12": 0
     }
   },
   {
