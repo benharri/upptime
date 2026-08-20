@@ -4,17 +4,17 @@
     "url": "https://tilde.team",
     "icon": "https://icons.duckduckgo.com/ip3/tilde.team.ico",
     "slug": "tilde-team",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
-    "time": 1176,
-    "timeDay": 493,
-    "timeWeek": 2411,
-    "timeMonth": 986,
-    "timeYear": 1354,
+    "time": 1175,
+    "timeDay": 354,
+    "timeWeek": 2136,
+    "timeMonth": 962,
+    "timeYear": 1351,
     "dailyMinutesDown": {
       "2025-08-26": 529,
       "2025-11-09": 31,
@@ -26,7 +26,8 @@
       "2026-05-15": 742,
       "2026-05-16": 242,
       "2026-05-17": 449,
-      "2026-06-02": 508
+      "2026-06-02": 508,
+      "2026-08-20": 0
     }
   },
   {
@@ -62,17 +63,17 @@
     "url": "https://tilde.news",
     "icon": "https://icons.duckduckgo.com/ip3/tilde.news.ico",
     "slug": "tilde-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.25%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.40%",
     "time": 440,
-    "timeDay": 179,
-    "timeWeek": 587,
-    "timeMonth": 477,
-    "timeYear": 443,
+    "timeDay": 193,
+    "timeWeek": 569,
+    "timeMonth": 469,
+    "timeYear": 442,
     "dailyMinutesDown": {
       "2025-08-26": 529,
       "2025-09-04": 510,
@@ -81,7 +82,8 @@
       "2026-04-29": 107,
       "2026-05-15": 741,
       "2026-06-02": 507,
-      "2026-08-13": 76
+      "2026-08-13": 76,
+      "2026-08-20": 0
     }
   },
   {
